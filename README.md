@@ -7,5 +7,5 @@ Mappa das cidades, vilas, lugares e freguezias das capitanias do Maranhão e Pia
 ## piauhy_1787_b
 Mappa das cidades, vilas, lugares e freguezias das capitanias do Maranhão e Piauhy
 
-## piaui_1696
+## piaui_1697
 Descrição do Piauí, Pe. Miguel de Carvalho
