@@ -1,132 +1,390 @@
 # Descrição do Piauí, Pe. Miguel de Carvalho. 1697.
 # https://museudehistoriadopiaui.ufpi.edu.br/acervo/livros/livros-sobre-o-piau%C3%AD/historiografia-piauiense-cl%C3%A1ssica
-Local;Fazenda;Livres;Escravizados-Negros;Escravizados-Indígenas
-Canindé;Cachoeira;2;0;0
-Canindé;Buqueirão;1;3;0
-Canindé;Poções-de-São-Miguel;1;0;0
-Canindé;Campo-Grande;1;1;0
-Canindé;Campo-Largo;2;3;0
-Canindé;Torre;1;1;0
-Canindé;Ilha;2;0;0
-Canindé;Graciosa;1;0;0
-Canindé;Várzea-Branca;1;1;1
-Canindé;Passagem;1;2;0
-Canindé;Boa-Vista;1;2;0
-Canindé;Aldeia;1;1;0
-Canindé;Porto-Alegre;2;0;1
-Canindé;Tatu;1;2;0
-Canindé;Gameleira;1;2;0
-Canindé;Retiro;1;1;0
-Canindé;Barra;2;2;0
-Canindé;Craibas;1;4;0
-Canindé;Lagoa-da-Sussuapara;1;2;0
-Canindé;Santa-Rosa;1;2;0
-Itaim Mirim;Jenipapo;1;3;0
-Itaim Mirim;Tabua;1;2;0
-Itaim Mirim;Serra;2;3;0
-Itaim Mirim;Torta;3;4;0
-Itaim Mirim;Tranqueira;1;1;0
-Itaim Mirim;Canavieira;1;2;0
-Itaim Mirim;Saco;1;2;0
-Guaribas_a;Buraco;1;2;0
-Guaribas_a;Pedras;1;1;0
-Guaribas_a;Sussuapara;1;2;0
-Guaribas_a;Sambambaia;2;0;4
-Guaribas_a;Buqueirão;2;2;1
-Guaribas_a;Tucano;1;1;1
-Frade;Frade;1;1;1
-Talhada;Talhada;1;1;0
-Corrente;Corrente;2;3;0
-Mocambo;Mocambo;1;1;1
-Itaim Açu;Onça;1;1;0
-Itaim Açu;Anta;1;1;0
-Itaim Açu;Boqueirão;2;6;4
-Itaim Açu;Juazeiro;1;1;0
-Itaim Açu;Sambaíba;1;1;0
-Itaim Açu;Poti;1;4;0
-Itaim Açu;São Lázaro;1;0;2
-Itaim Açu;São Pedro;1;0;2
-Itaim Açu;São Cosme;1;0;1
-Cais;Dor-de-Barriga;1;1;0
-Cais;Bigode;1;1;0
-Cabeça do Tapuio;Cabeça-do-Tapúia;1;1;1
-Cabeça do Tapuio;Olho-D'Água;1;1;1
-Cabeça do Tapuio;Sítio-da-Cruz;2;3;0
-Canabrava;Canabrava;1;5;0
-Canabrava;Iningas;1;2;0
-São Nicolau;Sítio-do-Mendes;1;2;0
-São Nicolau;São-Nicolau;1;2;0
-São Nicolau;Sítio-das-Pedras;1;2;0
-São Nicolau;Santo-Antônio;1;0;3
-Vitória;Vitória;1;2;0
-Negro;Serra-Negra;1;2;0
-São Vitor;São-Vitor;1;2;0
-São Vitor;São-Mateus;2;4;0
-São Vitor;Belo-Jardim-de-Santa-Cruz;3;0;4
-São Vitor;Tapera;2;2;0
-Santa Catarina;São-Francisco-Xavier;2;0;4
-Santa Catarina;Sítio-da-Catarina;2;3;1
-São Vicente;Gado-Bravo;1;1;0
-São Vicente;São-Vicente;1;4;0
-São Vicente;Santo-Antônio;2;2;0
-São Vicente;Alegrete;1;2;0
-Berlengas;Craíbas;1;3;0
-Berlengas;Berlengas;1;1;0
-Berlengas;São-João-das-Flores;1;0;2
-Santo Antônio;Santo-Antônio;1;1;0
-Maratamhaim;Jenipapo;1;2;0
-Maratamhaim;Carnaíba;1;1;0
-Maratamhaim;Estreito;1;0;0
-Maratamhaim;Boa-Ceia;1;1;0
-Cobras;Sítio-da-Cobra;0;2;0
-Cobras;Barra;1;1;0
-Bitorocara;Serra;1;0;1
-Bitorocara;Bitorocara;1;4;0
-Bitorocara;Jatobá;1;1;0
-Buriti;Éguas;1;1;6
-Tranqueira;Saco;2;1;0
-Tranqueira;Lagoa-Grande;2;2;0
-Tranqueira;Tranqueira;2;3;0
-Tranqueira;Sussuapara;1;2;0
-Tranqueira;Salinas;2;5;1
-Piauí;Almas-Santas;4;0;1
-Piauí;Taboleiro-Alto;1;2;0
-Inhinhinga;Curral-do-Campo;1;2;0
-Piauí;Fazenda-Grande;1;1;1
-Piauí;Sítio-das-Pimentas;1;1;1
-Piauí;Espinhos;1;2;0
-Piauí;Salinas;1;2;0
-Piauí;Cachoeira;1;1;0
-Piauí;Gameleiras;1;2;1
-Piauí;Serra;2;3;0
-Piauí;Riacho;1;2;0
-Piauí;Sobrado;1;2;0
-Piauí;Lagoa-do-Jacaré;1;4;0
-Piauí;Espinheiros;1;2;0
-Piauí;Lagoa-das-Itaris;1;2;3
-Piauí;Sítio-de-Baixo;1;1;0
-Piauí;Sussuapara;1;2;0
-Piauí;Algodões;2;2;1
-Piauí;Catarenz;2;2;0
-Piauí;Tapera;1;2;0
-Piauí;Pobre;1;1;1
-Moicatá;Angicos;1;1;1
-Moicatá;Moicotá;1;2;9
-Moicatá;Lagoa-do-Jacaré;1;1;0
-Moicatá;Boa-Vista;1;1;1
-Itaueira;Maravilha;2;2;0
-Itaueira;Batalha;1;1;0
-Itaueira;Jacaré;1;2;0
-Itaueira;Sítio-das-Flores;1;0;2
-Guaribas_b;Guaribas;1;1;0
-Guaribas_b;Pico;1;2;0
-Guaribas_b;Mato;1;1;0
-Guaribas_b;Rio-Grande;1;3;0
-Guaribas_b;Salinas;1;2
-Gurgueia;Serra-Vermelha;2;1;0
-Gurgueia;Estreito;1;1;0
-Gurgueia;Boretis;1;1;0
-Gurgueia;Barreiras;1;1;0
-Gurgueia;Castelo;1;1;0
-Gurgueia;Sítio-das-Manganas;1;1;0
-Gurgueia;Sítio-Real;1;1;0
+Local;Fazenda;Categoria;Pessoas
+Canindé;Cachoeira;Livres;2
+Canindé;Cachoeira;Escravizados-negros;0
+Canindé;Cachoeira;Escravizados-indígenas;0
+Canindé;Buqueirão;Livres;1
+Canindé;Buqueirão;Escravizados-negros;3
+Canindé;Buqueirão;Escravizados-indígenas;0
+Canindé;Poções-de-São-Miguel;Livres;1
+Canindé;Poções-de-São-Miguel;Escravizados-negros;0
+Canindé;Poções-de-São-Miguel;Escravizados-indígenas;0
+Canindé;Campo-Grande;Livres;1
+Canindé;Campo-Grande;Escravizados-negros;1
+Canindé;Campo-Grande;Escravizados-indígenas;0
+Canindé;Campo-Largo;Livres;2
+Canindé;Campo-Largo;Escravizados-negros;3
+Canindé;Campo-Largo;Escravizados-indígenas;0
+Canindé;Torre;Livres;1
+Canindé;Torre;Escravizados-negros;1
+Canindé;Torre;Escravizados-indígenas;0
+Canindé;Ilha;Livres;2
+Canindé;Ilha;Escravizados-negros;0
+Canindé;Ilha;Escravizados-indígenas;0
+Canindé;Graciosa;Livres;1
+Canindé;Graciosa;Escravizados-negros;0
+Canindé;Graciosa;Escravizados-indígenas;0
+Canindé;Várzea-Branca;Livres;1
+Canindé;Várzea-Branca;Escravizados-negros;1
+Canindé;Várzea-Branca;Escravizados-indígenas;1
+Canindé;Passagem;Livres;1
+Canindé;Passagem;Escravizados-negros;2
+Canindé;Passagem;Escravizados-indígenas;0
+Canindé;Boa-Vista;Livres;1
+Canindé;Boa-Vista;Escravizados-negros;2
+Canindé;Boa-Vista;Escravizados-indígenas;0
+Canindé;Aldeia;Livres;1
+Canindé;Aldeia;Escravizados-negros;1
+Canindé;Aldeia;Escravizados-indígenas;0
+Canindé;Porto-Alegre;Livres;2
+Canindé;Porto-Alegre;Escravizados-negros;0
+Canindé;Porto-Alegre;Escravizados-indígenas;1
+Canindé;Tatu;Livres;1
+Canindé;Tatu;Escravizados-negros;2
+Canindé;Tatu;Escravizados-indígenas;0
+Canindé;Gameleira;Livres;1
+Canindé;Gameleira;Escravizados-negros;2
+Canindé;Gameleira;Escravizados-indígenas;0
+Canindé;Retiro;Livres;1
+Canindé;Retiro;Escravizados-negros;1
+Canindé;Retiro;Escravizados-indígenas;0
+Canindé;Barra;Livres;2
+Canindé;Barra;Escravizados-negros;2
+Canindé;Barra;Escravizados-indígenas;0
+Canindé;Craibas;Livres;1
+Canindé;Craibas;Escravizados-negros;4
+Canindé;Craibas;Escravizados-indígenas;0
+Canindé;Lagoa-da-Sussuapara;Livres;1
+Canindé;Lagoa-da-Sussuapara;Escravizados-negros;2
+Canindé;Lagoa-da-Sussuapara;Escravizados-indígenas;0
+Canindé;Santa-Rosa;Livres;1
+Canindé;Santa-Rosa;Escravizados-negros;2
+Canindé;Santa-Rosa;Escravizados-indígenas;0
+Itaim Mirim;Jenipapo;Livres;1
+Itaim Mirim;Jenipapo;Escravizados-negros;3
+Itaim Mirim;Jenipapo;Escravizados-indígenas;0
+Itaim Mirim;Tabua;Livres;1
+Itaim Mirim;Tabua;Escravizados-negros;2
+Itaim Mirim;Tabua;Escravizados-indígenas;0
+Itaim Mirim;Serra;Livres;2
+Itaim Mirim;Serra;Escravizados-negros;3
+Itaim Mirim;Serra;Escravizados-indígenas;0
+Itaim Mirim;Torta;Livres;3
+Itaim Mirim;Torta;Escravizados-negros;4
+Itaim Mirim;Torta;Escravizados-indígenas;0
+Itaim Mirim;Tranqueira;Livres;1
+Itaim Mirim;Tranqueira;Escravizados-negros;1
+Itaim Mirim;Tranqueira;Escravizados-indígenas;0
+Itaim Mirim;Canavieira;Livres;1
+Itaim Mirim;Canavieira;Escravizados-negros;2
+Itaim Mirim;Canavieira;Escravizados-indígenas;0
+Itaim Mirim;Saco;Livres;1
+Itaim Mirim;Saco;Escravizados-negros;2
+Itaim Mirim;Saco;Escravizados-indígenas;0
+Guaribas_a;Buraco;Livres;1
+Guaribas_a;Buraco;Escravizados-negros;2
+Guaribas_a;Buraco;Escravizados-indígenas;0
+Guaribas_a;Pedras;Livres;1
+Guaribas_a;Pedras;Escravizados-negros;1
+Guaribas_a;Pedras;Escravizados-indígenas;0
+Guaribas_a;Sussuapara;Livres;1
+Guaribas_a;Sussuapara;Escravizados-negros;2
+Guaribas_a;Sussuapara;Escravizados-indígenas;0
+Guaribas_a;Sambambaia;Livres;2
+Guaribas_a;Sambambaia;Escravizados-negros;0
+Guaribas_a;Sambambaia;Escravizados-indígenas;4
+Guaribas_a;Buqueirão;Livres;2
+Guaribas_a;Buqueirão;Escravizados-negros;2
+Guaribas_a;Buqueirão;Escravizados-indígenas;1
+Guaribas_a;Tucano;Livres;1
+Guaribas_a;Tucano;Escravizados-negros;1
+Guaribas_a;Tucano;Escravizados-indígenas;1
+Frade;Frade;Livres;1
+Frade;Frade;Escravizados-negros;1
+Frade;Frade;Escravizados-indígenas;1
+Talhada;Talhada;Livres;1
+Talhada;Talhada;Escravizados-negros;1
+Talhada;Talhada;Escravizados-indígenas;0
+Corrente;Corrente;Livres;2
+Corrente;Corrente;Escravizados-negros;3
+Corrente;Corrente;Escravizados-indígenas;0
+Mocambo;Mocambo;Livres;1
+Mocambo;Mocambo;Escravizados-negros;1
+Mocambo;Mocambo;Escravizados-indígenas;1
+Itaim Açu;Onça;Livres;1
+Itaim Açu;Onça;Escravizados-negros;1
+Itaim Açu;Onça;Escravizados-indígenas;0
+Itaim Açu;Anta;Livres;1
+Itaim Açu;Anta;Escravizados-negros;1
+Itaim Açu;Anta;Escravizados-indígenas;0
+Itaim Açu;Boqueirão;Livres;2
+Itaim Açu;Boqueirão;Escravizados-negros;6
+Itaim Açu;Boqueirão;Escravizados-indígenas;4
+Itaim Açu;Juazeiro;Livres;1
+Itaim Açu;Juazeiro;Escravizados-negros;1
+Itaim Açu;Juazeiro;Escravizados-indígenas;0
+Itaim Açu;Sambaíba;Livres;1
+Itaim Açu;Sambaíba;Escravizados-negros;1
+Itaim Açu;Sambaíba;Escravizados-indígenas;0
+Itaim Açu;Poti;Livres;1
+Itaim Açu;Poti;Escravizados-negros;4
+Itaim Açu;Poti;Escravizados-indígenas;0
+Itaim Açu;São Lázaro;Livres;1
+Itaim Açu;São Lázaro;Escravizados-negros;0
+Itaim Açu;São Lázaro;Escravizados-indígenas;2
+Itaim Açu;São Pedro;Livres;1
+Itaim Açu;São Pedro;Escravizados-negros;0
+Itaim Açu;São Pedro;Escravizados-indígenas;2
+Itaim Açu;São Cosme;Livres;1
+Itaim Açu;São Cosme;Escravizados-negros;0
+Itaim Açu;São Cosme;Escravizados-indígenas;1
+Cais;Dor-de-Barriga;Livres;1
+Cais;Dor-de-Barriga;Escravizados-negros;1
+Cais;Dor-de-Barriga;Escravizados-indígenas;0
+Cais;Bigode;Livres;1
+Cais;Bigode;Escravizados-negros;1
+Cais;Bigode;Escravizados-indígenas;0
+Cabeça do Tapuio;Cabeça-do-Tapúia;Livres;1
+Cabeça do Tapuio;Cabeça-do-Tapúia;Escravizados-negros;1
+Cabeça do Tapuio;Cabeça-do-Tapúia;Escravizados-indígenas;1
+Cabeça do Tapuio;Olho-D'Água;Livres;1
+Cabeça do Tapuio;Olho-D'Água;Escravizados-negros;1
+Cabeça do Tapuio;Olho-D'Água;Escravizados-indígenas;1
+Cabeça do Tapuio;Sítio-da-Cruz;Livres;2
+Cabeça do Tapuio;Sítio-da-Cruz;Escravizados-negros;3
+Cabeça do Tapuio;Sítio-da-Cruz;Escravizados-indígenas;0
+Canabrava;Canabrava;Livres;1
+Canabrava;Canabrava;Escravizados-negros;5
+Canabrava;Canabrava;Escravizados-indígenas;0
+Canabrava;Iningas;Livres;1
+Canabrava;Iningas;Escravizados-negros;2
+Canabrava;Iningas;Escravizados-indígenas;0
+São Nicolau;Sítio-do-Mendes;Livres;1
+São Nicolau;Sítio-do-Mendes;Escravizados-negros;2
+São Nicolau;Sítio-do-Mendes;Escravizados-indígenas;0
+São Nicolau;São-Nicolau;Livres;1
+São Nicolau;São-Nicolau;Escravizados-negros;2
+São Nicolau;São-Nicolau;Escravizados-indígenas;0
+São Nicolau;Sítio-das-Pedras;Livres;1
+São Nicolau;Sítio-das-Pedras;Escravizados-negros;2
+São Nicolau;Sítio-das-Pedras;Escravizados-indígenas;0
+São Nicolau;Santo-Antônio;Livres;1
+São Nicolau;Santo-Antônio;Escravizados-negros;0
+São Nicolau;Santo-Antônio;Escravizados-indígenas;3
+Vitória;Vitória;Livres;1
+Vitória;Vitória;Escravizados-negros;2
+Vitória;Vitória;Escravizados-indígenas;0
+Negro;Serra-Negra;Livres;1
+Negro;Serra-Negra;Escravizados-negros;2
+Negro;Serra-Negra;Escravizados-indígenas;0
+São Vitor;São-Vitor;Livres;1
+São Vitor;São-Vitor;Escravizados-negros;2
+São Vitor;São-Vitor;Escravizados-indígenas;0
+São Vitor;São-Mateus;Livres;2
+São Vitor;São-Mateus;Escravizados-negros;4
+São Vitor;São-Mateus;Escravizados-indígenas;0
+São Vitor;Belo-Jardim-de-Santa-Cruz;Livres;3
+São Vitor;Belo-Jardim-de-Santa-Cruz;Escravizados-negros;0
+São Vitor;Belo-Jardim-de-Santa-Cruz;Escravizados-indígenas;4
+São Vitor;Tapera;Livres;2
+São Vitor;Tapera;Escravizados-negros;2
+São Vitor;Tapera;Escravizados-indígenas;0
+Santa Catarina;São-Francisco-Xavier;Livres;2
+Santa Catarina;São-Francisco-Xavier;Escravizados-negros;0
+Santa Catarina;São-Francisco-Xavier;Escravizados-indígenas;4
+Santa Catarina;Sítio-da-Catarina;Livres;2
+Santa Catarina;Sítio-da-Catarina;Escravizados-negros;3
+Santa Catarina;Sítio-da-Catarina;Escravizados-indígenas;1
+São Vicente;Gado-Bravo;Livres;1
+São Vicente;Gado-Bravo;Escravizados-negros;1
+São Vicente;Gado-Bravo;Escravizados-indígenas;0
+São Vicente;São-Vicente;Livres;1
+São Vicente;São-Vicente;Escravizados-negros;4
+São Vicente;São-Vicente;Escravizados-indígenas;0
+São Vicente;Santo-Antônio;Livres;2
+São Vicente;Santo-Antônio;Escravizados-negros;2
+São Vicente;Santo-Antônio;Escravizados-indígenas;0
+São Vicente;Alegrete;Livres;1
+São Vicente;Alegrete;Escravizados-negros;2
+São Vicente;Alegrete;Escravizados-indígenas;0
+Berlengas;Craíbas;Livres;1
+Berlengas;Craíbas;Escravizados-negros;3
+Berlengas;Craíbas;Escravizados-indígenas;0
+Berlengas;Berlengas;Livres;1
+Berlengas;Berlengas;Escravizados-negros;1
+Berlengas;Berlengas;Escravizados-indígenas;0
+Berlengas;São-João-das-Flores;Livres;1
+Berlengas;São-João-das-Flores;Escravizados-negros;0
+Berlengas;São-João-das-Flores;Escravizados-indígenas;2
+Santo Antônio;Santo-Antônio;Livres;1
+Santo Antônio;Santo-Antônio;Escravizados-negros;1
+Santo Antônio;Santo-Antônio;Escravizados-indígenas;0
+Maratamhaim;Jenipapo;Livres;1
+Maratamhaim;Jenipapo;Escravizados-negros;2
+Maratamhaim;Jenipapo;Escravizados-indígenas;0
+Maratamhaim;Carnaíba;Livres;1
+Maratamhaim;Carnaíba;Escravizados-negros;1
+Maratamhaim;Carnaíba;Escravizados-indígenas;0
+Maratamhaim;Estreito;Livres;1
+Maratamhaim;Estreito;Escravizados-negros;0
+Maratamhaim;Estreito;Escravizados-indígenas;0
+Maratamhaim;Boa-Ceia;Livres;1
+Maratamhaim;Boa-Ceia;Escravizados-negros;1
+Maratamhaim;Boa-Ceia;Escravizados-indígenas;0
+Cobras;Sítio-da-Cobra;Livres;0
+Cobras;Sítio-da-Cobra;Escravizados-negros;2
+Cobras;Sítio-da-Cobra;Escravizados-indígenas;0
+Cobras;Barra;Livres;1
+Cobras;Barra;Escravizados-negros;1
+Cobras;Barra;Escravizados-indígenas;0
+Bitorocara;Serra;Livres;1
+Bitorocara;Serra;Escravizados-negros;0
+Bitorocara;Serra;Escravizados-indígenas;1
+Bitorocara;Bitorocara;Livres;1
+Bitorocara;Bitorocara;Escravizados-negros;4
+Bitorocara;Bitorocara;Escravizados-indígenas;0
+Bitorocara;Jatobá;Livres;1
+Bitorocara;Jatobá;Escravizados-negros;1
+Bitorocara;Jatobá;Escravizados-indígenas;0
+Buriti;Éguas;Livres;1
+Buriti;Éguas;Escravizados-negros;1
+Buriti;Éguas;Escravizados-indígenas;6
+Tranqueira;Saco;Livres;2
+Tranqueira;Saco;Escravizados-negros;1
+Tranqueira;Saco;Escravizados-indígenas;0
+Tranqueira;Lagoa-Grande;Livres;2
+Tranqueira;Lagoa-Grande;Escravizados-negros;2
+Tranqueira;Lagoa-Grande;Escravizados-indígenas;0
+Tranqueira;Tranqueira;Livres;2
+Tranqueira;Tranqueira;Escravizados-negros;3
+Tranqueira;Tranqueira;Escravizados-indígenas;0
+Tranqueira;Sussuapara;Livres;1
+Tranqueira;Sussuapara;Escravizados-negros;2
+Tranqueira;Sussuapara;Escravizados-indígenas;0
+Tranqueira;Salinas;Livres;2
+Tranqueira;Salinas;Escravizados-negros;5
+Tranqueira;Salinas;Escravizados-indígenas;1
+Piauí;Almas-Santas;Livres;4
+Piauí;Almas-Santas;Escravizados-negros;0
+Piauí;Almas-Santas;Escravizados-indígenas;1
+Piauí;Taboleiro-Alto;Livres;1
+Piauí;Taboleiro-Alto;Escravizados-negros;2
+Piauí;Taboleiro-Alto;Escravizados-indígenas;0
+Inhinhinga;Curral-do-Campo;Livres;1
+Inhinhinga;Curral-do-Campo;Escravizados-negros;2
+Inhinhinga;Curral-do-Campo;Escravizados-indígenas;0
+Piauí;Fazenda-Grande;Livres;1
+Piauí;Fazenda-Grande;Escravizados-negros;1
+Piauí;Fazenda-Grande;Escravizados-indígenas;1
+Piauí;Sítio-das-Pimentas;Livres;1
+Piauí;Sítio-das-Pimentas;Escravizados-negros;1
+Piauí;Sítio-das-Pimentas;Escravizados-indígenas;1
+Piauí;Espinhos;Livres;1
+Piauí;Espinhos;Escravizados-negros;2
+Piauí;Espinhos;Escravizados-indígenas;0
+Piauí;Salinas;Livres;1
+Piauí;Salinas;Escravizados-negros;2
+Piauí;Salinas;Escravizados-indígenas;0
+Piauí;Cachoeira;Livres;1
+Piauí;Cachoeira;Escravizados-negros;1
+Piauí;Cachoeira;Escravizados-indígenas;0
+Piauí;Gameleiras;Livres;1
+Piauí;Gameleiras;Escravizados-negros;2
+Piauí;Gameleiras;Escravizados-indígenas;1
+Piauí;Serra;Livres;2
+Piauí;Serra;Escravizados-negros;3
+Piauí;Serra;Escravizados-indígenas;0
+Piauí;Riacho;Livres;1
+Piauí;Riacho;Escravizados-negros;2
+Piauí;Riacho;Escravizados-indígenas;0
+Piauí;Sobrado;Livres;1
+Piauí;Sobrado;Escravizados-negros;2
+Piauí;Sobrado;Escravizados-indígenas;0
+Piauí;Lagoa-do-Jacaré;Livres;1
+Piauí;Lagoa-do-Jacaré;Escravizados-negros;4
+Piauí;Lagoa-do-Jacaré;Escravizados-indígenas;0
+Piauí;Espinheiros;Livres;1
+Piauí;Espinheiros;Escravizados-negros;2
+Piauí;Espinheiros;Escravizados-indígenas;0
+Piauí;Lagoa-das-Itaris;Livres;1
+Piauí;Lagoa-das-Itaris;Escravizados-negros;2
+Piauí;Lagoa-das-Itaris;Escravizados-indígenas;3
+Piauí;Sítio-de-Baixo;Livres;1
+Piauí;Sítio-de-Baixo;Escravizados-negros;1
+Piauí;Sítio-de-Baixo;Escravizados-indígenas;0
+Piauí;Sussuapara;Livres;1
+Piauí;Sussuapara;Escravizados-negros;2
+Piauí;Sussuapara;Escravizados-indígenas;0
+Piauí;Algodões;Livres;2
+Piauí;Algodões;Escravizados-negros;2
+Piauí;Algodões;Escravizados-indígenas;1
+Piauí;Catarenz;Livres;2
+Piauí;Catarenz;Escravizados-negros;2
+Piauí;Catarenz;Escravizados-indígenas;0
+Piauí;Tapera;Livres;1
+Piauí;Tapera;Escravizados-negros;2
+Piauí;Tapera;Escravizados-indígenas;0
+Piauí;Pobre;Livres;1
+Piauí;Pobre;Escravizados-negros;1
+Piauí;Pobre;Escravizados-indígenas;1
+Moicatá;Angicos;Livres;1
+Moicatá;Angicos;Escravizados-negros;1
+Moicatá;Angicos;Escravizados-indígenas;1
+Moicatá;Moicotá;Livres;1
+Moicatá;Moicotá;Escravizados-negros;2
+Moicatá;Moicotá;Escravizados-indígenas;9
+Moicatá;Lagoa-do-Jacaré;Livres;1
+Moicatá;Lagoa-do-Jacaré;Escravizados-negros;1
+Moicatá;Lagoa-do-Jacaré;Escravizados-indígenas;0
+Moicatá;Boa-Vista;Livres;1
+Moicatá;Boa-Vista;Escravizados-negros;1
+Moicatá;Boa-Vista;Escravizados-indígenas;1
+Itaueira;Maravilha;Livres;2
+Itaueira;Maravilha;Escravizados-negros;2
+Itaueira;Maravilha;Escravizados-indígenas;0
+Itaueira;Batalha;Livres;1
+Itaueira;Batalha;Escravizados-negros;1
+Itaueira;Batalha;Escravizados-indígenas;0
+Itaueira;Jacaré;Livres;1
+Itaueira;Jacaré;Escravizados-negros;2
+Itaueira;Jacaré;Escravizados-indígenas;0
+Itaueira;Sítio-das-Flores;Livres;1
+Itaueira;Sítio-das-Flores;Escravizados-negros;0
+Itaueira;Sítio-das-Flores;Escravizados-indígenas;2
+Guaribas_b;Guaribas;Livres;1
+Guaribas_b;Guaribas;Escravizados-negros;1
+Guaribas_b;Guaribas;Escravizados-indígenas;0
+Guaribas_b;Pico;Livres;1
+Guaribas_b;Pico;Escravizados-negros;2
+Guaribas_b;Pico;Escravizados-indígenas;0
+Guaribas_b;Mato;Livres;1
+Guaribas_b;Mato;Escravizados-negros;1
+Guaribas_b;Mato;Escravizados-indígenas;0
+Guaribas_b;Rio-Grande;Livres;1
+Guaribas_b;Rio-Grande;Escravizados-negros;3
+Guaribas_b;Rio-Grande;Escravizados-indígenas;0
+Guaribas_b;Salinas;Livres;1
+Guaribas_b;Salinas;Escravizados-negros;2
+Guaribas_b;Salinas;Escravizados-indígenas;0
+Gurgueia;Serra-Vermelha;Livres;2
+Gurgueia;Serra-Vermelha;Escravizados-negros;1
+Gurgueia;Serra-Vermelha;Escravizados-indígenas;0
+Gurgueia;Estreito;Livres;1
+Gurgueia;Estreito;Escravizados-negros;1
+Gurgueia;Estreito;Escravizados-indígenas;0
+Gurgueia;Boretis;Livres;1
+Gurgueia;Boretis;Escravizados-negros;1
+Gurgueia;Boretis;Escravizados-indígenas;0
+Gurgueia;Barreiras;Livres;1
+Gurgueia;Barreiras;Escravizados-negros;1
+Gurgueia;Barreiras;Escravizados-indígenas;0
+Gurgueia;Castelo;Livres;1
+Gurgueia;Castelo;Escravizados-negros;1
+Gurgueia;Castelo;Escravizados-indígenas;0
+Gurgueia;Sítio-das-Manganas;Livres;1
+Gurgueia;Sítio-das-Manganas;Escravizados-negros;1
+Gurgueia;Sítio-das-Manganas;Escravizados-indígenas;0
+Gurgueia;Sítio-Real;Livres;1
+Gurgueia;Sítio-Real;Escravizados-negros;1
+Gurgueia;Sítio-Real;Escravizados-indígenas;0
