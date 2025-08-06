@@ -89,7 +89,7 @@ Pernugua;20;Feminino;599
 Pernugua;40;Feminino;435
 Pernugua;70;Feminino;165
 Pernugua;100;Feminino;0
-Oeiras;7,Masculino;753
+Oeiras;7;Masculino;753
 Oeiras;20;Masculino;1800
 Oeiras;40;Masculino;1065
 Oeiras;70;Masculino;220
@@ -99,5 +99,6 @@ Oeiras;20;Feminino;1370
 Oeiras;40;Feminino;959
 Oeiras;70;Feminino;185
 Oeiras;100;Feminino;10
+
 
 
