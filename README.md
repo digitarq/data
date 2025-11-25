@@ -9,3 +9,6 @@ Mappa das cidades, vilas, lugares e freguezias das capitanias do Maranhão e Pia
 
 ## piaui_1697
 Descrição do Piauí, Pe. Miguel de Carvalho
+
+## guegue_1739
+AHU_ACL_CU016-Cx04Doc253
