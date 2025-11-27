@@ -12,3 +12,6 @@ Descrição do Piauí, Pe. Miguel de Carvalho
 
 ## guegue_1739
 AHU_ACL_CU016-Cx04Doc253
+
+## maranhao_1614
+Diogo de Campos Moreno. Jornada do Maranhão, 1614.
