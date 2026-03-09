@@ -1,104 +1,100 @@
-Local;Idade;Sexo;Pessoas
-São Gonçallo;7;Masculino;49
-São Gonçallo;20;Masculino;45
-São Gonçallo;40;Masculino;38
-São Gonçallo;70;Masculino;18
-São Gonçallo;100;Masculino;0
-São Gonçallo;7;Feminino;43
-São Gonçallo;20;Feminino;50
-São Gonçallo;40;Feminino;44
-São Gonçallo;70;Feminino;22
-São Gonçallo;100;Feminino;1
-Cajoeiro;7;Masculino;39
-Cajoeiro;20;Masculino;48
-Cajoeiro;40;Masculino;42
-Cajoeiro;70;Masculino;26
-Cajoeiro;100;Masculino;0
-Cajoeiro;7;Feminino;19
-Cajoeiro;20;Feminino;45
-Cajoeiro;40;Feminino;35
-Cajoeiro;70;Feminino;16
-Cajoeiro;100;Feminino;0
-S. Joaõ de Sende;7;Masculino;3
-S. Joaõ de Sende;20;Masculino;4
-S. Joaõ de Sende;40;Masculino;3
-S. Joaõ de Sende;70;Masculino;1
-S. Joaõ de Sende;100;Masculino;0
-S. Joaõ de Sende;7;Feminino;0
-S. Joaõ de Sende;20;Feminino;2
-S. Joaõ de Sende;40;Feminino;1
-S. Joaõ de Sende;70;Feminino;1
-S. Joaõ de Sende;100;Feminino;0
-Parnahiba;7;Masculino;715
-Parnahiba;20;Masculino;1040
-Parnahiba;40;Masculino;1020
-Parnahiba;70;Masculino;285
-Parnahiba;100;Masculino;10
-Parnahiba;7;Feminino;629
-Parnahiba;20;Feminino;776
-Parnahiba;40;Feminino;670
-Parnahiba;70;Feminino;220
-Parnahiba;100;Feminino;15
-Campo Mayor;7;Masculino;1046
-Campo Mayor;20;Masculino;1060
-Campo Mayor;40;Masculino;1010
-Campo Mayor;70;Masculino;547
-Campo Mayor;100;Masculino;10
-Campo Mayor;7;Feminino;1508
-Campo Mayor;20;Feminino;1540
-Campo Mayor;40;Feminino;1216
-Campo Mayor;70;Feminino;628
-Campo Mayor;100;Feminino;15
-Marvão;7;Masculino;562
-Marvão;20;Masculino;624
-Marvão;40;Masculino;590
-Marvão;70;Masculino;306
-Marvão;100;Masculino;4
-Marvão;7;Feminino;432
-Marvão;20;Feminino;585
-Marvão;40;Feminino;496
-Marvão;70;Feminino;263
-Marvão;100;Feminino;9
-Vallenca;7;Masculino;410
-Vallenca;20;Masculino;536
-Vallenca;40;Masculino;495
-Vallenca;70;Masculino;290
-Vallenca;100;Masculino;2
-Vallenca;7;Feminino;419
-Vallenca;20;Feminino;486
-Vallenca;40;Feminino;388
-Vallenca;70;Feminino;230
-Vallenca;100;Feminino;4
-Geromanha;7;Masculino;338
-Geromanha;20;Masculino;326
-Geromanha;40;Masculino;261
-Geromanha;70;Masculino;120
-Geromanha;100;Masculino;0
-Geromanha;7;Feminino;360
-Geromanha;20;Feminino;396
-Geromanha;40;Feminino;368
-Geromanha;70;Feminino;190
-Geromanha;100;Feminino;0
-Pernugua;7;Masculino;336
-Pernugua;20;Masculino;625
-Pernugua;40;Masculino;497
-Pernugua;70;Masculino;296
-Pernugua;100;Masculino;0
-Pernugua;7;Feminino;341
-Pernugua;20;Feminino;599
-Pernugua;40;Feminino;435
-Pernugua;70;Feminino;165
-Pernugua;100;Feminino;0
-Oeiras;7;Masculino;753
-Oeiras;20;Masculino;1800
-Oeiras;40;Masculino;1065
-Oeiras;70;Masculino;220
-Oeiras;100;Masculino;8
-Oeiras;7;Feminino;710
-Oeiras;20;Feminino;1370
-Oeiras;40;Feminino;959
-Oeiras;70;Feminino;185
-Oeiras;100;Feminino;10
-
-
-
+São Gonçallo;Masculino_7;49
+São Gonçallo;Masculino_20;45
+São Gonçallo;Masculino_40;38
+São Gonçallo;Masculino_70;18
+São Gonçallo;Masculino_100;0
+São Gonçallo;Feminino_7;43
+São Gonçallo;Feminino_20;50
+São Gonçallo;Feminino_40;44
+São Gonçallo;Feminino_70;22
+São Gonçallo;Feminino_100;1
+Cajoeiro;Masculino_7;39
+Cajoeiro;Masculino_20;48
+Cajoeiro;Masculino_40;42
+Cajoeiro;Masculino_70;26
+Cajoeiro;Masculino_100;0
+Cajoeiro;Feminino_7;19
+Cajoeiro;Feminino_20;45
+Cajoeiro;Feminino_40;35
+Cajoeiro;Feminino_70;16
+Cajoeiro;Feminino_100;0
+S. Joaõ de Sende;Masculino_7;3
+S. Joaõ de Sende;Masculino_20;4
+S. Joaõ de Sende;Masculino_40;3
+S. Joaõ de Sende;Masculino_70;1
+S. Joaõ de Sende;Masculino_100;0
+S. Joaõ de Sende;Feminino_7;0
+S. Joaõ de Sende;Feminino_20;2
+S. Joaõ de Sende;Feminino_40;1
+S. Joaõ de Sende;Feminino_70;1
+S. Joaõ de Sende;Feminino_100;0
+Parnahiba;Masculino_7;715
+Parnahiba;Masculino_20;1040
+Parnahiba;Masculino_40;1020
+Parnahiba;Masculino_70;285
+Parnahiba;Masculino_100;10
+Parnahiba;Feminino_7;629
+Parnahiba;Feminino_20;776
+Parnahiba;Feminino_40;670
+Parnahiba;Feminino_70;220
+Parnahiba;Feminino_100;15
+Campo Mayor;Masculino_7;1046
+Campo Mayor;Masculino_20;1060
+Campo Mayor;Masculino_40;1010
+Campo Mayor;Masculino_70;547
+Campo Mayor;Masculino_100;10
+Campo Mayor;Feminino_7;1508
+Campo Mayor;Feminino_20;1540
+Campo Mayor;Feminino_40;1216
+Campo Mayor;Feminino_70;628
+Campo Mayor;Feminino_100;15
+Marvão;Masculino_7;562
+Marvão;Masculino_20;624
+Marvão;Masculino_40;590
+Marvão;Masculino_70;306
+Marvão;Masculino_100;4
+Marvão;Feminino_7;432
+Marvão;Feminino_20;585
+Marvão;Feminino_40;496
+Marvão;Feminino_70;263
+Marvão;Feminino_100;9
+Vallenca;Masculino_7;410
+Vallenca;Masculino_20;536
+Vallenca;Masculino_40;495
+Vallenca;Masculino_70;290
+Vallenca;Masculino_100;2
+Vallenca;Feminino_7;419
+Vallenca;Feminino_20;486
+Vallenca;Feminino_40;388
+Vallenca;Feminino_70;230
+Vallenca;Feminino_100;4
+Geromanha;Masculino_7;338
+Geromanha;Masculino_20;326
+Geromanha;Masculino_40;261
+Geromanha;Masculino_70;120
+Geromanha;Masculino_100;0
+Geromanha;Feminino_7;360
+Geromanha;Feminino_20;396
+Geromanha;Feminino_40;368
+Geromanha;Feminino_70;190
+Geromanha;Feminino_100;0
+Pernugua;Masculino_7;336
+Pernugua;Masculino_20;625
+Pernugua;Masculino_40;497
+Pernugua;Masculino_70;296
+Pernugua;Masculino_100;0
+Pernugua;Feminino_7;341
+Pernugua;Feminino_20;599
+Pernugua;Feminino_40;435
+Pernugua;Feminino_70;165
+Pernugua;Feminino_100;0
+Oeiras;Masculino_7;753
+Oeiras;Masculino_20;1800
+Oeiras;Masculino_40;1065
+Oeiras;Masculino_70;220
+Oeiras;Masculino_100;8
+Oeiras;Feminino_7;710
+Oeiras;Feminino_20;1370
+Oeiras;Feminino_40;959
+Oeiras;Feminino_70;185
+Oeiras;Feminino_100;10
